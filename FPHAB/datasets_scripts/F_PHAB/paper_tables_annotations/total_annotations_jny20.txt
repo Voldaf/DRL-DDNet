@@ -1,0 +1,14 @@
+./datasets/common_pose/F-PHAB/Subject6_unfoldglasses_4_train_jn20.txt 35
+./datasets/common_pose/F-PHAB/Subject2_receivecoin_3_val_jn20.txt 39
+./datasets/common_pose/F-PHAB/Subject4_unfoldglasses_3_val_jn20.txt 35
+./datasets/common_pose/F-PHAB/Subject3_closepeanutbutter_3_val_jn20.txt 4
+./datasets/common_pose/F-PHAB/Subject3_readletter_1_val_jn20.txt 30
+./datasets/common_pose/F-PHAB/Subject3_givecoin_2_train_jn20.txt 38
+./datasets/common_pose/F-PHAB/Subject4_chargecellphone_3_val_jn20.txt 34
+./datasets/common_pose/F-PHAB/Subject5_unfoldglasses_3_val_jn20.txt 35
+./datasets/common_pose/F-PHAB/Subject6_openmilk_2_train_jn20.txt 10
+./datasets/common_pose/F-PHAB/Subject5_openwallet_3_val_jn20.txt 37
+./datasets/common_pose/F-PHAB/Subject5_handshake_4_train_jn20.txt 43
+./datasets/common_pose/F-PHAB/Subject5_drinkmug_2_train_jn20.txt 13
+./datasets/common_pose/F-PHAB/Subject6_sprinkle_4_train_jn20.txt 6
+./datasets/common_pose/F-PHAB/Subject4_scoopspoon_5_train_jn20.txt 7
