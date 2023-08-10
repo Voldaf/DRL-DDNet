@@ -1,9 +1,9 @@
 # DRL-DDNet
 
 # Dataset
-SHREC-17 http://www-rech.telecom-lille.fr/shrec2017-hand/
+SHREC-17: http://www-rech.telecom-lille.fr/shrec2017-hand/
 
-FPHAB https://docs.google.com/forms/d/e/1FAIpQLScoksYrmthDbJeAV0_ysXJDmfvZmzMMsX0_Uhkb6H6DHYGBtg/viewform
+FPHAB: https://docs.google.com/forms/d/e/1FAIpQLScoksYrmthDbJeAV0_ysXJDmfvZmzMMsX0_Uhkb6H6DHYGBtg/viewform
 
 
 # For SHREC-17
